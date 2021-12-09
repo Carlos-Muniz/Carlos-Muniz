@@ -1,3 +1,2 @@
-![Carlos's GitHubStats](https://github-readme-stats.vercel.app/api?username=Carlos-Muniz&show_icons=true&theme=merko)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Muniz&show_private=false&hide=jupyter+notebook&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Carlos-Muniz&show_icons=true&theme=merko" alt="Carlos-Muniz's GitHub Stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Muniz&show_private=false&hide=jupyter+notebook&theme=merko" alt="Carlos-Muniz's Most Used Languages" />
